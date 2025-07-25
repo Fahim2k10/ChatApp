@@ -1,10 +1,12 @@
-# 💬 Real-Time Chat App (MERN + Socket.IO)
+# MERN Real-Time Chat App
 
-A real-time 1-on-1 chat application built with the MERN stack and Socket.IO, following the GreatStack YouTube tutorial. It includes user authentication, online status, and instant messaging with MongoDB as the database.
+A real-time chat app using MERN stack and Socket.IO. Users can sign up, log in, and chat instantly.
 
-## 🔧 Tech Stack
-- **Frontend:** React, Tailwind CSS, Socket.IO Client
-- **Backend:** Node.js, Express.js, MongoDB, Socket.IO Server
+## Tech Stack
 
+- **Frontend**: React, Context API, Tailwind CSS  
+- **Backend**: Node.js, Express, MongoDB, JWT  
+- **Real-time**: Socket.IO
 
-📌 Based on [GreatStack's tutorial](https://www.youtube.com/@GreatStack)
+Credits
+Based on GreatStack's tutorial.
